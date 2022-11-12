@@ -1,2 +1,3 @@
 # Portfolio
-My portfolio with some of my last java programing workbooks
+Portfolio contains programs written by me during my still ongoing development in Java programming.
+
