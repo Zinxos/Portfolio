@@ -1,3 +1,3 @@
-# Portfolio
+# Portfolio Piotr Sobieraj
 Portfolio contains programs written by me during my still ongoing development in Java programming.
 
