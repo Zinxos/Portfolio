@@ -48,7 +48,7 @@ public class Dealership {
             }
         }
         System.out.println("we didn't find any car for you");
-        System.out.println("fell free to check our car colletion");
+        System.out.println("feel free to check our car colletion");
         for (int i = 0; i < cars.length ; i++) {
             System.out.println(cars[i].toString());
         }

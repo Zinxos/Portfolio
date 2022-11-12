@@ -30,7 +30,7 @@ public class BlackJack {
             System.out.println("now your score is " + playerScore);
             if(playerScore < 21)
             {
-                System.out.println("you like to hit or check)anwser h/c");
+                System.out.println("you like to hit or check (anwser h/c)");
                 String hitOrCheckChoose = scanner.next();
                 switch (hitOrCheckChoose) {
                     case "h":

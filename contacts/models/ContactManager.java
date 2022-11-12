@@ -22,7 +22,7 @@ public class ContactManager {
     public void removeContact(String contactName){
         if(contacts.isEmpty())
         {
-            throw new IllegalStateException("you cannot remove from list that is empty");
+            throw new IllegalStateException("you cannot remove contact from empty list");
         }
 
         for (int i = 0; i < contacts.size(); i++) {
