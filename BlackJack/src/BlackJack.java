@@ -77,5 +77,5 @@ public class BlackJack {
     public static void main(String[] args) {
         blackJack();
     }
-
+//tak właśnie dopisałem tą linie i po wrzuceniu github to wie
 }
