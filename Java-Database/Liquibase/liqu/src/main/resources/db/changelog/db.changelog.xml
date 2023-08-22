@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xmlns:pro="http://www.liquibase.org/xml/ns/pro"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd
+        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd
+        http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-latest.xsd">
+
+    <include file="db/changelog/version/20230821_2105_createUserDataTable.xml"></include>
+    <include file="db/changelog/version/20230821_2106_createUserLoginTable.xml"></include>
+    <include file="db/changelog/version/20230821_2108_createUserAdditionalDataTable.xml"></include>
+    <include file="db/changelog/version/20230821_2110_addFKInAdditionaDataTable.xml"></include>
+    <include file="db/changelog/version/20230821_2117_addFKInLoginTable.xml"></include>
+    <include file="db/changelog/version/20230822_1504_addField_InGameName_ToAdditionalDataTable.xml"></include>
+    <include file="db/changelog/version/20230822_1508_changeFieldName_InGameName_To_Nickname_InAdditionalDataTable.xml"></include>
+    <include file="db/changelog/version/20230822_1513_deleteField_Nickname_InAdditionalDataTable.xml"></include>
+
+
+</databaseChangeLog>

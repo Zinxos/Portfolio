@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="844e85fe-9902-4da8-8ccd-501cdf641432" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/data/accounts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/data/transactions.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/Transaction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/account/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/account/Chequing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/account/Loan.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/account/Savings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/main/java/account/tax/Taxable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/test/java/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/test/java/BankTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/src/test/java/TransactionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/Bank$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/Transaction$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/account/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/account/Chequing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/account/Loan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/account/Savings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/classes/account/tax/Taxable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/test-classes/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/test-classes/BankTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BankManagmentChallange/target/test-classes/TransactionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BlackJack/BlackJack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../BlackJack/src/BlackJack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiceRoll/DiceRoll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DiceRoll/src/DiceRoll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HangmanJava/HangmanJava.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../HangmanJava/src/Hangman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/Library.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/lib/mysql-connector-java-8.0.27.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/Check/CheckAuthor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/Check/CheckBooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/DbConnect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/Insert/InsertBooks.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/delete/DeleteBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/update/BookTableUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/out/production/library/pl/piotrS/xmlReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/Check/CheckAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/Check/CheckBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/DbConnect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/Insert/InsertBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/delete/DeleteBook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/update/BookTableUpdate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/src/pl/piotrS/xmlReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/xml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/src/main/java/models/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/src/main/java/models/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/src/test/java/models/StoreTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/target/classes/models/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/target/classes/models/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../MovieStore2/target/test-classes/models/StoreTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RockPaperScisors/RockPaperScisors.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../RockPaperScisors/src/RockPaperScisors.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/ShoppingCartChallange.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/out/production/ShoppingCartChallange/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/out/production/ShoppingCartChallange/models/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/out/production/ShoppingCartChallange/models/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/out/production/ShoppingCartChallange/models/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/products.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/src/models/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/src/models/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShoppingCartChallange/src/models/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/src/main/java/models/Cart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/src/main/java/models/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/src/main/java/models/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/src/test/java/models/CartTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/target/classes/models/Cart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/target/classes/models/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/target/classes/models/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ShopppingCart2/target/test-classes/models/CartTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/contacts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/contacts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/models/Contact.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/models/ContactManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/out/production/contacts/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/out/production/contacts/contacts.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/out/production/contacts/contacts.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/out/production/contacts/models/Contact.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../contacts/out/production/contacts/models/ContactManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/dealership.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/out/production/dealership/dealership.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/out/production/dealership/src/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/out/production/dealership/src/Dealership.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/out/production/dealership/src/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/src/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/src/Dealership.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../dealership/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/java/com/ltp/globalsuperstore/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/java/com/ltp/globalsuperstore/GlobalSuperstoreApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/java/com/ltp/globalsuperstore/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/java/com/ltp/globalsuperstore/StoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/resources/static/form-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/resources/static/inventory-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/resources/templates/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/main/resources/templates/inventory.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../global-superstore/src/test/java/com/ltp/globalsuperstore/GlobalSuperstoreApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../hangman/Hangman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/models/Movie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/models/Store.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/movie-store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/out/production/movie-store/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/out/production/movie-store/models/Movie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/out/production/movie-store/models/Store.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/out/production/movie-store/movie-store.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../movie-store/out/production/movie-store/movies.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/main/java/models/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/main/java/models/Team.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/main/java/plays.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/main/java/teams.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/test/java/models/GameTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/src/test/java/models/TeamTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/target/classes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/target/classes/models/Game.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/target/classes/models/Team.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/target/test-classes/models/GameTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../quidditch_Challange/target/test-classes/models/TeamTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/data/AAPL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/data/FB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/data/GOOG.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/data/TSLA.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/Trade$Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/Trade$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/Trade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/account/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/account/Personal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/model/account/TFSA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/main/utils/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/test/BuyTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/out/production/starter/src/test/SellTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/data/AAPL.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/data/FB.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/data/GOOG.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/data/TSLA.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/model/Trade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/model/account/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/model/account/Personal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/model/account/TFSA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/main/utils/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/test/BuyTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stock-trader/stock-trader/src/test/SellTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ticTackToe/TicTackToe.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ticTackToe/src/TicTackToe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vending-machine/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vending-machine/Machine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vending-machine/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vending-machine/vending-machine.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2UMDparjyBGBFj7WW5tMGGKvlkj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/pansa/Desktop/Portfolio/Java-Database/Liquibase/liqu"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="844e85fe-9902-4da8-8ccd-501cdf641432" name="Changes" comment="" />
+      <created>1692740739092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692740739092</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

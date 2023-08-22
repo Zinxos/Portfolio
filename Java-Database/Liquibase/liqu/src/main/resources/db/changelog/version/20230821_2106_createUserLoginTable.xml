@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<databaseChangeLog
+        xmlns="http://www.liquibase.org/xml/ns/dbchangelog"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:ext="http://www.liquibase.org/xml/ns/dbchangelog-ext"
+        xmlns:pro="http://www.liquibase.org/xml/ns/pro"
+        xsi:schemaLocation="http://www.liquibase.org/xml/ns/dbchangelog
+        http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-latest.xsd
+        http://www.liquibase.org/xml/ns/dbchangelog-ext http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-ext.xsd
+        http://www.liquibase.org/xml/ns/pro http://www.liquibase.org/xml/ns/pro/liquibase-pro-latest.xsd">
+    <changeSet author="Zinxos" id="2">
+        <createTable tableName="Login_Data">
+            <column name="Login_Data_id" type="Uuid">
+                <constraints primaryKey="true" primaryKeyName="pk_Login_Data"/>
+            </column>
+            <column name="User_id" type="Uuid">
+                <constraints nullable="false" />
+            </column>
+            <column name="Login" type="text">
+                <constraints nullable="false"/>
+            </column>
+            <column name="Password" type="text">
+                <constraints nullable="false"/>
+            </column>
+            <column name="Email" type="text">
+                <constraints nullable="false"/>
+            </column>
+        </createTable>
+    </changeSet>
+</databaseChangeLog>
